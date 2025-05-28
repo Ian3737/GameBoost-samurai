@@ -1,2 +1,2 @@
 # GameBoost-samurai
-The best game boostee
+The best game booster
